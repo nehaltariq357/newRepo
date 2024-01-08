@@ -1,0 +1,17 @@
+.flex-container {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+
+.flexcard {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  /* Add additional styling as needed */
+}
+
+.card-img-top {
+  max-width: 100%;
+  height: auto;
+}
